@@ -35,11 +35,11 @@
 
 - Collection
 
-| ![Jmeter Collection](./Images/Collection.png) |
+| ![Collection](./Images/Collection.png) |
 | :--------------------------------------------------: |
 |              _Jmeter Collection _              |
 
-#### **JMeter SummaryReport**
+#### **SummaryReport**
 
 - SummaryReport
 
@@ -49,6 +49,6 @@
 
 - Report_Summary_and_Statictis1
 
-| ![Report_Summary_and_Statictis1](./Images/Report_Summary_and_Statictis1.png) |
+| ![Report_Summary_and_Statictis](./Images/Report_Summary_and_Statictis1.png) |
 | :-----------------------------------------: |
-|                _Statistics_                 |
+|              Report_Summary_and_Statictis                |
