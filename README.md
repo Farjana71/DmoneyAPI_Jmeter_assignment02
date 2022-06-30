@@ -27,28 +27,28 @@
 
 - [Server](https://demoqa.com/BookStore/v1/Books)
 
-- Results Tree
+- Result_Tree
 
-| ![Jmeter Results Tree](./Images/Result_Tree.png) |
+| ![ Result_Tree](./Images/Result_Tree.png) |
 | :--------------------------------------------------: |
-|              _Jmeter Test Collection 1_              |
+|              _Jmeter Results_Tree_              |
 
-- Summary Reports
+- Collection
 
-| ![Jmeter Summary Reports](./Images/Collection.png) |
+| ![Jmeter Collection](./Images/Collection.png) |
 | :--------------------------------------------------: |
-|              _Jmeter Test Collection _              |
+|              _Jmeter Collection _              |
 
-#### **JMeter Summary Report**
+#### **JMeter SummaryReport**
 
-- Test Report Summary
+- SummaryReport
 
-| ![Test Case 1](./Images/SummaryReport.png) |
+| ![SummaryReport](./Images/SummaryReport.png) |
 | :-----------------------------------------: |
 |                  _Summary_                  |
 
-- Test Report Statistics
+- Report_Summary_and_Statictis1
 
-| ![Test Case 2](./Images/Report_Summary_and_Statictis1.png) |
+| ![Report_Summary_and_Statictis1](./Images/Report_Summary_and_Statictis1.png) |
 | :-----------------------------------------: |
 |                _Statistics_                 |
